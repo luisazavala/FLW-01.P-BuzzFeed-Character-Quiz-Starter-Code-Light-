@@ -13,14 +13,21 @@ function buzzfeedQuiz() {
 
   // task 5: declare variables for values we'll set later. You'll need one for an image source, a result and a score for each question.
 
-
+  let imgSrc;
+  let result;
+  let scoreq1;
+  let scoreq2;
+  let scoreq3;
+  
 
 
   button.onclick = function() {
 
     // task 6: Declare user input variables for each of your questions. If you have three questions, you should have three variables. These variables should equal the value of the user input for each question.
 
-
+    let answer1 = q1.value.toLowerCase();
+    let answer2 = q2.value.toLowerCase();
+    let answer3 = q3.value.toLowerCase();  
 
 
 
