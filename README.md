@@ -42,26 +42,26 @@ Make sure to check off your items as you complete them. [ ] → [x]
 
 ### Variables inside the .onlick event
 
-6. [ ] Declare user input variables for each of your questions. If you have three questions, you should have three variables. These variables should equal the value of the user input for each question.
+6. [x] Declare user input variables for each of your questions. If you have three questions, you should have three variables. These variables should equal the value of the user input for each question.
     - If you don't want to stress on whether or not the user's capitalization is exact, consider using the .toLowerCase() method.
 </br>
 </br>
 
 ### Conditionals
-7. [ ] Create a conditional statement for the responses to Question 1 based on the user input.
+7. [x] Create a conditional statement for the responses to Question 1 based on the user input.
 </br>
 
-8. [ ] Create a conditional statement for the responses to Question 2 based on the user input.
+8. [x] Create a conditional statement for the responses to Question 2 based on the user input.
 </br>
 
-9. [ ] Create a conditional statement for the responses to Question 3 based on the user input.
+9. [x] Create a conditional statement for the responses to Question 3 based on the user input.
 
 <em><strong>Note:</strong> Make sure each condition results in the question score variables (you declared earlier without a value) being assigned a numeric value!</em>
 
-10. [ ] Declare a variable for the total score of the quiz and set it equal to the sum of each question score.
+10. [x] Declare a variable for the total score of the quiz and set it equal to the sum of each question score.
 </br>
 
-11. [ ] Create a conditional statement for the result to the quiz based on the total score. Using string interpolation, display these to the page:
+11. [x] Create a conditional statement for the result to the quiz based on the total score. Using string interpolation, display these to the page:
       - the result
       - an image that corresponds
       - a message to go with it.
